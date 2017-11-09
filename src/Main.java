@@ -1,8 +1,15 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("123");
 
-        System.out.println("abc");
+    }
+
+    public static void drawLine (int a, char b){
+        a = 10;
+        b = '_';
+    }
+
+    public static void drawRect( int c, char d){
+
     }
 }
