@@ -11,6 +11,7 @@ public class Main {
     }
 
     public static void drawRect( int c, char d){
+
         
     }
 }
